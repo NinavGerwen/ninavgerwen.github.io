@@ -18,7 +18,7 @@ For more detailed information about my background and education, feel free to ch
 
 ### Experience in the field
 
-Although I currently have no published research (subject to change once my MSc thesis is finished in a few months), my statistical experiences include: (a) a confirmatory and exploratory meta-analysis of the effect of institutions in Social Dilemmas, (b) programming my own Gibbs and Metropolis-Hastings sampler, (c) programming several simulation studies investigating new the performance of fit indices and goodness-of-fit tests, (d) coding, interpreting and evaluating different types of multilevel models, and much more! For an overview of some of my programming, check out my [GitHub](https://github.com/NinavGerwen).
+Although I currently have no published research (subject to change once my MSc thesis is finished in a few months), my statistical experiences include: (a) a confirmatory and exploratory meta-analysis of the effect of institutions in Social Dilemmas, (b) programming my own Gibbs and Metropolis-Hastings sampler, (c) programming several simulation studies investigating the performance of new fit indices and goodness-of-fit tests, (d) coding, interpreting and evaluating different types of multilevel models, and much more! For an overview of some of my programming, check out my [GitHub](https://github.com/NinavGerwen).
 
 ### Contact
 
